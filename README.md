@@ -1,4 +1,3 @@
-# My-Projects
-
-## 项目简介
+## 简介
+放一些自己做的小项目
 1.SudokuSolver
