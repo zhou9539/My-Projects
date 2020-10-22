@@ -3,9 +3,7 @@
 
 **项目介绍**
 
-1. SudokuSolver:
-
-用回溯法破解数独
+1. SudokuSolver:  用回溯法破解数独
 
 2. Personal Financial Planning Program:
 
