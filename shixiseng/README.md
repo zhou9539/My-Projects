@@ -1,6 +1,7 @@
 ## 实习僧爬虫与自动推送项目 
 
-### * shixiseng_crawler
+
+###  shixiseng_crawler
 
 这段代码参考了CSDN用户Be_melting的文章，在此之上我做了大量修改，算是练习
 
