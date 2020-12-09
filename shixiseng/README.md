@@ -1,5 +1,7 @@
 # 实习僧爬虫与自动推送项目 
 
+运用 requests 和 BeautifulSoup 库对实习僧的最新岗位信息进行爬取，并保存至 MySQL 数据库。
+利用 MySQL 的文本搜索功能检索合适的实习岗位，利用 smtplib 定时将更新的岗位信息推送到手机客户端。
 
 ##  shixiseng_crawler
 
