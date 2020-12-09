@@ -1,16 +1,17 @@
 # Risk Control Model for Trading System
 
-# Project Overview:
-∙  Use GARCH model to describe the volatility of return
+### Project Overview:
 
-∙  Derive the conditional cumulative distribution function of five assets
+$\bullet$ Use GARCH model to describe the volatility of return
 
-∙  Construct five dimensional Archimedean copula by distribution function
+$\bullet$ Derive the conditional cumulative distribution function of five assets
 
-∙  Based on copula, use Monte Carlo Simulation method to simulate the returns and calculate ES
+$\bullet$ Construct five dimensional Archimedean copula by distribution function
 
-∙  Use a structured multi factor risk model to forecast returns
+$\bullet$ Based on copula, use Monte Carlo Simulation method to simulate the returns and calculate ES
 
-∙  Allocate weights based on optimization model (ES as restriction)
+$\bullet$ Use a structured multi factor risk model to forecast returns
 
-∙  Determine the number of shares according to the weight and do one hour trading
+$\bullet$ Allocate weights based on optimization model (ES as restriction)
+
+$\bullet$ Determine the number of shares according to the weight and do one hour trading
