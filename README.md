@@ -1,5 +1,4 @@
 ## 简介
-放一些自己做过的项目
 
 **项目介绍**
 
@@ -7,10 +6,14 @@
 
 * 一个预估投资组合整体风险的策略模型
 
-2. SudokuSolver:
+2. 实习僧爬虫与自动推送项目
+
+* 爬取实习僧的最新岗位信息， 定时将合适的岗位发送到个人邮箱
+
+3. SudokuSolver:
 
 * 用回溯法破解数独
 
-3. Personal Financial Planning Program:
+4. Personal Financial Planning Program:
 
 * 只投资无风险产品的个人退休理财计划，目的是实现退休时间不同的每个客户的最优资产配置
