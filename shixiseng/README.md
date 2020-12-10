@@ -3,6 +3,8 @@
 运用 requests 和 BeautifulSoup 库对实习僧的最新岗位信息进行爬取，并保存至 MySQL 数据库。
 利用 MySQL 的文本搜索功能检索合适的实习岗位，利用 smtplib 定时将更新的岗位信息推送到手机邮箱。
 
+<div align=center><img src="https://github.com/zhou9539/hello-world/blob/main/shixiseng_result1.png"></div>
+
 ##  shixiseng_crawler
 
 这段代码参考了CSDN用户Be_melting的文章，在此之上我做了大量修改，算是练习
